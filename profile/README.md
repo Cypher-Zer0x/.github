@@ -33,7 +33,7 @@ Blockchain technology has revolutionized transparency and security in digital tr
 - **Cross-Chain Functionality**: Supports Ethereum, XDC Network, Zircuit, Hedera Hashgraph, Near Protocol, and more for versatile transaction capabilities.
 
 ### Data Availability and Resilience
-- **NEAR Protocol Integration**: Ensures data availability and fund recovery, even if the primary chain is down.
+- **NEAR Protocol Integration**: Ensures data availability and fund recovery, even if the plasma chain is down.
 
 ## Practical Use Cases :briefcase:
 
