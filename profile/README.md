@@ -2,6 +2,11 @@
 
 Welcome to **Cypher Zer0x** - the first cross-chain, compliant Layer 2 solution designed for private transactions. Leveraging cutting-edge zero-knowledge technology and ring signatures, we ensure confidentiality without compromising compliance.
 
+## Demo Applications 
+
+[Cypher Zer0x - Block Explorer](https://explorer.zer0x.xyz/)  
+[Cypher Zer0x - KYC & Chain interactions through Metamask Snap](https://kyc.zer0x.xyz/)  
+
 ## Introduction :page_facing_up:
 
 Blockchain technology has revolutionized transparency and security in digital transactions. However, this innovation often sacrifices privacy. **Cypher Zer0x** bridges this gap, offering a secure, confidential, and compliant platform for private transactions across various blockchains.
