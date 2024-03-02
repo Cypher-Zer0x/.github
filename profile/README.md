@@ -5,7 +5,7 @@ Welcome to **Cypher Zer0x** - the first cross-chain, compliant Layer 2 solution 
 ## Demo Applications 
 
 [Cypher Zer0x - Block Explorer](https://explorer.zer0x.xyz/)  
-[Cypher Zer0x - KYC & Chain interactions through Metamask Snap](https://kyc.zer0x.xyz/)  
+[Cypher Zer0x - KYC & Chain interactions through Metamask Snap](https://app.zer0x.xyz/)  
 
 ## Introduction :page_facing_up:
 
