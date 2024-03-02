@@ -7,6 +7,7 @@ Welcome to **Cypher Zer0x** - the first cross-chain, compliant Layer 2 solution 
 [Cypher Zer0x - Block Explorer](https://explorer.zer0x.xyz/)  
 [Cypher Zer0x - KYC & Chain interactions through Metamask Snap](https://app.zer0x.xyz/)  
 
+
 ## Introduction :page_facing_up:
 
 Blockchain technology has revolutionized transparency and security in digital transactions. However, this innovation often sacrifices privacy. **Cypher Zer0x** bridges this gap, offering a secure, confidential, and compliant platform for private transactions across various blockchains.
@@ -66,6 +67,10 @@ We welcome contributions from the community. If you're interested in helping imp
 - **Adam Dahmoul**, Data Scientist / Engineer - *Board Member of KRYPTOSPHERE®*
 - **Maxime Dienger**, FinTech & Software Engineer - *Head of KRYPTOSPHERE®*
 - **Nathan Hervier**, FinTech Engineer - *Member of KRYPTOSPHERE®*
+
+## litepaper 📜:
+
+View our full litepaper through [this link](https://github.com/Cypher-Zer0x/.github/blob/main/25422e14-25bd-4b66-9387-9b7bb197a872.pdf)
 
 ---
 
