@@ -57,6 +57,10 @@ To start using **Cypher Zer0x** for your private transactions, follow these step
 3. **Follow the Setup Instructions**
    Detailed setup instructions are available in the different folders of the repo. Ensure you review these to properly configure your environment for **Cypher Zer0x**.
 
+## Network Information
+As the project is in its early stages, the network is currently operating in Proof of Authority (PoA) mode. 
+The address responsible for publishing proofs on the root chains is 0xB3C2d0AA83cad06E9B66dBEC8135Cf7641F96BC8.
+
 ## Contribution :handshake:
 
 We welcome contributions from the community. If you're interested in helping improve **Cypher Zer0x**, please contact us.
